@@ -108,13 +108,13 @@ fireman.driveTruck();
 //  action 3:   the fireman cooks chili
 fireman.cookChili();
 //  8)
-//  Noun:       dog
-//  action 1:   the dog barks
-dog.bark();
-//  action 2:   the dog wags tails
-dog.wagTail();
-//  action 3:   the dog runs
-dog.run();
+//  Noun:       dog owner
+//  action 1:   the dog owner walks dog
+dogOwner.walksDog();
+//  action 2:   the dog owner buys food
+dogOwner.buysFood();
+//  action 3:   the dog owner plays fetch
+dogOwner.playsFetch();
 //  9)
 //  Noun:       cat
 //  action 1:   the cat meows
