@@ -51,86 +51,86 @@ arm.flex();                             // 3)
 arm.rotateCounterClockwise();           // 4) demonstrates CamelCase
 
 
-//  1)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
+//  1)          
+//  Noun:       river
+//  action 1:   the river flows
+river.flows();
+//  action 2:   the river erodes
+river.erodes();
 //  action 3:
- 
-//  2)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+river.swirls();
+//  2)          
+//  Noun:       sun 
+//  action 1:   the sun shines
+sun.shine();
+//  action 2:   the sun burns
+sun.burn();
+//  action 3:   the sun heats
+sun.heat();
 //  3)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun:       wind
+//  action 1:   the wind blows
+wind.blow();
+//  action 2:   the wind cools
+wind.cool();
+//  action 3:   the wind moves objects
+wind.movesObjects() ;
 //  4)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun:       plane
+//  action 1:   the plane flies
+plane.flies();
+//  action 2:   the plane lands
+plane.lands();
+//  action 3:   the plane takes off
+plane.takesOff();
 //  5)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun:       student
+//  action 1:   the student codes
+student.codes();
+//  action 2:   the student learns
+student.learn();
+//  action 3:   the student sits 
+student.sit();
 //  6)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun:       tornado
+//  action 1:   the tornado spins
+tornado.spins();
+//  action 2:   the tornado destroys
+tornado.destroy();
+//  action 3:   the tornado moves
+tornado.move(); 
 //  7)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun:       fireman
+//  action 1:   the fireman extinguishes fire
+fireman.extinguishFire();
+//  action 2:   the fireman drives truck
+fireman.driveTruck();
+//  action 3:   the fireman cooks chili
+fireman.cookChili();
 //  8)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun:       dog owner
+//  action 1:   the dog owner walks dog
+dogOwner.walksDog();
+//  action 2:   the dog owner buys food
+dogOwner.buysFood();
+//  action 3:   the dog owner plays fetch
+dogOwner.playsFetch();
 //  9)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun:       cat
+//  action 1:   the cat meows
+cat.meow();
+//  action 2:   the cat purrs
+cat.purr();
+//  action 3:   the cat jumps
+cat.jump();
 //  10)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun:       soccer player
+//  action 1:   the soccer player kicks ball
+soccerPlayer.kicksBall();
+//  action 2:   the soccer player scores goal
+soccerPlayer.scoreGoal();
+//  action 3:   the soccer player slide tackles
+soccerPlayer.slideTackle();
 
 
 #endif
